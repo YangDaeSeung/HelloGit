@@ -13,7 +13,10 @@ public class HelloWorld {
 		System.out.println("moduel_B Start");
 		System.out.println("충돌해결");
 		System.out.println("1줄추가 깃허브");
+
 		System.out.println("로컬에서 추가");
+		System.out.println("remote에서 수정");
+
 	}
 
 	private static void test() {
