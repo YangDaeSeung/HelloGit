@@ -11,6 +11,7 @@ public class HelloWorld {
 
 		System.out.println("Master 작업 중");
 		System.out.println("moduel_B Start");
+		System.out.println("충돌해결");
 
 	}
 
