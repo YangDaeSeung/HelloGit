@@ -13,6 +13,7 @@ public class HelloWorld {
 	private static void test() {
 		// TODO Auto-generated method stub
 		System.out.println("새모듈작업");
+		System.out.println("머지 완료");
 	}	
 
 }
