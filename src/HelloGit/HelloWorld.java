@@ -16,6 +16,8 @@ public class HelloWorld {
 
 		System.out.println("로컬에서 추가");
 		System.out.println("remote에서 수정");
+		
+		System.out.println("집에서 작업");
 	}
 
 	private static void test() {
